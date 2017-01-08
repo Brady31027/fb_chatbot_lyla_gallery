@@ -1,6 +1,6 @@
-[Frameworks]
-https://github.com/ozgur/python-firebase
-
-[Installation] 
-sudo pip install requests
-sudo pip install python-firebase
+**[Frameworks]** </br>  
+https://github.com/ozgur/python-firebase </br>  
+<br/>  
+**[Installation]** </br>  
+sudo pip install requests </br>  
+sudo pip install python-firebase </br>
